@@ -58,7 +58,7 @@ streamlit run app.py
 <h2 id="flow">Flow</h2>
 
 The flow of this project:
-![alt text](./asset/flow.png)
+[![alt text](./asset/flow.png)](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1#G1L6xYJrFOEciK4NYmsg9Zcaat9vt5yIVF)
 
 
 <h2 id="colab">🤝 Collaborators</h2>
